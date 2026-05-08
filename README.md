@@ -8,3 +8,6 @@ It shows the transformation of raw data from Spotify into valuable insights thro
 
 🛠 Tools Used: Power BI, Figma
 📊 Features: KPI Tracking, Trend Analysis, Interactive Dashboard, Data Visualization
+
+📸 Dashboard Preview
+https://github.com/suryakanta2413/-Spotify-Analytics-Dashboard-/blob/main/Spotify%20Analysis.png
